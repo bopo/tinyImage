@@ -1,0 +1,2 @@
+# tinyImage
+基于pngquant和jpegoptim工具，处理PNG和JPEG图片大小压缩工具
